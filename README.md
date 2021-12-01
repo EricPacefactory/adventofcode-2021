@@ -1,2 +1,3 @@
-# adventofcode-2021
-Solutions for advent of code (2021)
+# Advent of Code 2021
+
+Solutions for 2021 [advent of code](https://adventofcode.com/)
