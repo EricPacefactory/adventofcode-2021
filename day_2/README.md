@@ -3,7 +3,7 @@ From: https://adventofcode.com/2021/day/2
 
 ---
 
-##--- Day 2: Dive! ---
+## --- Day 2: Dive! ---
 
 Now, you need to figure out how to pilot this thing.
 
@@ -41,7 +41,7 @@ After following these instructions, you would have a horizontal position of 15 a
 
 Calculate the horizontal position and depth you would have after following the planned course. What do you get if you multiply your final horizontal position by your final depth?
 
-##--- Part Two ---
+## --- Part Two ---
 
 Based on your calculations, the planned course doesn't seem to make any sense. You find the submarine manual and discover that the process is actually slightly more complicated.
 
